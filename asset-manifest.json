@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Diablo-Guitars/static/css/main.6433eda4.chunk.css",
-    "main.js": "/Diablo-Guitars/static/js/main.ab2f5ac2.chunk.js",
-    "main.js.map": "/Diablo-Guitars/static/js/main.ab2f5ac2.chunk.js.map",
+    "main.js": "/Diablo-Guitars/static/js/main.1e0e9064.chunk.js",
+    "main.js.map": "/Diablo-Guitars/static/js/main.1e0e9064.chunk.js.map",
     "runtime-main.js": "/Diablo-Guitars/static/js/runtime-main.4568a34c.js",
     "runtime-main.js.map": "/Diablo-Guitars/static/js/runtime-main.4568a34c.js.map",
     "static/js/2.bf42b881.chunk.js": "/Diablo-Guitars/static/js/2.bf42b881.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4568a34c.js",
     "static/js/2.bf42b881.chunk.js",
     "static/css/main.6433eda4.chunk.css",
-    "static/js/main.ab2f5ac2.chunk.js"
+    "static/js/main.1e0e9064.chunk.js"
   ]
 }
