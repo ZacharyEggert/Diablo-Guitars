@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Diablo-Guitars/static/css/main.6433eda4.chunk.css",
-    "main.js": "/Diablo-Guitars/static/js/main.90fbb07a.chunk.js",
-    "main.js.map": "/Diablo-Guitars/static/js/main.90fbb07a.chunk.js.map",
-    "runtime-main.js": "/Diablo-Guitars/static/js/runtime-main.4568a34c.js",
-    "runtime-main.js.map": "/Diablo-Guitars/static/js/runtime-main.4568a34c.js.map",
-    "static/js/2.e2266ea7.chunk.js": "/Diablo-Guitars/static/js/2.e2266ea7.chunk.js",
-    "static/js/2.e2266ea7.chunk.js.map": "/Diablo-Guitars/static/js/2.e2266ea7.chunk.js.map",
-    "index.html": "/Diablo-Guitars/index.html",
-    "static/css/main.6433eda4.chunk.css.map": "/Diablo-Guitars/static/css/main.6433eda4.chunk.css.map",
-    "static/js/2.e2266ea7.chunk.js.LICENSE.txt": "/Diablo-Guitars/static/js/2.e2266ea7.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.5d4b71b1.chunk.css",
+    "main.js": "/static/js/main.e0585a0e.chunk.js",
+    "main.js.map": "/static/js/main.e0585a0e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3830091d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3830091d.js.map",
+    "static/js/2.d8a41599.chunk.js": "/static/js/2.d8a41599.chunk.js",
+    "static/js/2.d8a41599.chunk.js.map": "/static/js/2.d8a41599.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5d4b71b1.chunk.css.map": "/static/css/main.5d4b71b1.chunk.css.map",
+    "static/js/2.d8a41599.chunk.js.LICENSE.txt": "/static/js/2.d8a41599.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4568a34c.js",
-    "static/js/2.e2266ea7.chunk.js",
-    "static/css/main.6433eda4.chunk.css",
-    "static/js/main.90fbb07a.chunk.js"
+    "static/js/runtime-main.3830091d.js",
+    "static/js/2.d8a41599.chunk.js",
+    "static/css/main.5d4b71b1.chunk.css",
+    "static/js/main.e0585a0e.chunk.js"
   ]
 }
